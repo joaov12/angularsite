@@ -1,3 +1,7 @@
+*{
+  margin: 0px;
+}
+
 .site-footer
 {
   background-color: rgb(60, 110, 60);
@@ -17,6 +21,7 @@
 }
 .site-footer h6
 {
+  
   color:#fff;
   font-size:16px;
   text-transform:uppercase;
