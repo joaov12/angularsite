@@ -11,6 +11,7 @@ import {MatFormFieldModule} from '@angular/material/form-field';
 import {MatButtonModule} from '@angular/material/button';
 import { MatInputModule } from '@angular/material/input';
 import { PageslideComponent } from './pageslide/pageslide.component';
+import { TelaprincipalComponent } from './telaprincipal/telaprincipal.component';
 
 
 @NgModule({
@@ -19,7 +20,8 @@ import { PageslideComponent } from './pageslide/pageslide.component';
     MenuComponent,
     FooterComponent,
     FormComponent,
-    PageslideComponent
+    PageslideComponent,
+    TelaprincipalComponent
   ],
   imports: [
     BrowserModule,
